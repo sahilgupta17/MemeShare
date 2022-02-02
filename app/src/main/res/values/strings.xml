@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="tanmayBhatSubreddit">TanmayBhatKeDost</string>
+    <string name="mainPageHeading">Enter the Subreddit</string>
+    <string name="generateMeme">OKAY</string>
+    <string name="randomMemeButton">Random</string>
+    <string name="shareButton">Share</string>
+    <string name="nextButton">Next</string>
+    <string name="memeImageView">meme Image View</string>
+</resources>
